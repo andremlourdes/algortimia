@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class FP4
 {static int Maiorde3(int X, int Y, int Z)
 {if (X < Y)
-    X=Y;
+    X=Y;est
     if (X < Z)
         X=Z;
     return X;}
