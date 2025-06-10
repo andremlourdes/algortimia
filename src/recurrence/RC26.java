@@ -1,6 +1,6 @@
 package recurrence;
 
-public class RC26
+public class  RC26
 {public static void Saidas(char[][] L, int Linha, int Coluna)
 {final char Saida='S', Sim=' ';
     L[Linha][Coluna]=Saida;
